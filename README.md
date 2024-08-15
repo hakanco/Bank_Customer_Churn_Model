@@ -38,3 +38,7 @@ Exited|Binary flag 1 if the customer closed account with bank and 0 if the custo
 - Creating a machine learning model to uncover key factors driving customer churn
 - Empowering banks to address root causes
 - Optimizing customer experiences, and implementing targeted retention initiatives to boost loyalty and satisfaction
+
+### <mark>Workflow of the Project</mark>
+
+Click in to the following notebook link to observe the workflow of the project. [NOTEBOOK](https://github.com/hakanco/Bank_Customer_Churn_Model/blob/main/banking_churn_model.ipynb)
