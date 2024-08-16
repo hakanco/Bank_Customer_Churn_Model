@@ -3,12 +3,12 @@ Developed a predictive analytics solution to identify high-risk customers likely
 
 # Try it out! 
 Access the Churn Model through streamlit web application to receive a churn risk probability score.
-[LINK](https://bankcustomerschurn.streamlit.app/)
+[STREAMLIT APP](https://bankcustomerschurn.streamlit.app/)
 
 ### <mark>Familiarize yourself with the Bank Customer dataset</mark>
 
 
-In this [dataset](https://www.kaggle.com/datasets/shrutimechlearn/churn-modelling/data), there are 10,000 rows, 14 columns, and the following variables: 
+In this [DATASET](https://www.kaggle.com/datasets/shrutimechlearn/churn-modelling/data), there are 10,000 rows, 14 columns, and the following variables: 
 
 Variable  |Description |
 -----|-----| 
@@ -42,3 +42,5 @@ Exited|Binary flag 1 if the customer closed account with bank and 0 if the custo
 ### <mark>Workflow of the Project</mark>
 
 Click in to the following notebook link to observe the workflow of the project. [NOTEBOOK](https://github.com/hakanco/Bank_Customer_Churn_Model/blob/main/banking_churn_model.ipynb)
+
+Click in to the following link for [EDA](https://github.com/hakanco/Bank_Customer_Churn_Model/blob/main/eda.ipynb) (Exploratory Data Analysis).
